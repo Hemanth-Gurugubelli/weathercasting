@@ -23,7 +23,7 @@
   <p align="center"> 
     <br />&#10023;
     <a href="#Demo">View Demo</a>   &#10023;  
-    <a href="https://github.com/m-sehrawat/Weather-App/issues">Report Bug</a>    &#10023;
+    <a>Report Bug</a>    &#10023;
     <a href="#Getting-Started">Getting Started</a> &#10023; <a href="#Install">Installing</a> &#10023;    
     <a href="#Contact">Author</a> &#10023;
   </p>
@@ -33,7 +33,7 @@
 <br/>
 
 
-This project is about building a web application to show a weather forecast using weather API from external services [Open weather map](https://openweathermap.org/). Here you will be able to search for a specific location in the world and also it will automatically detect your current location in the beginning (for that you need to allow location) and will display all the important weather details.
+This project is about building a web application to show a weather forecast using weather. Here you will be able to search for a specific location in the world and also it will automatically detect your current location in the beginning (for that you need to allow location) and will display all the important weather details.
 
 It have some cool features like save the weather data in redux-store and session-storage to reduce the dependency of network requests, search weather details according to the city, detect your current location for displaying weather data, shows a map of that location, sync data to get the latest updated details of the current weather, toast notification for every action, pop up modal to display extra details of seven-day forecast weather, cool zoom-in zoom-out animations and responsive for every screen size.
 
@@ -63,11 +63,6 @@ To use the app, type a name of the city and click on search/press Enter or else 
 
 <br />
 
-## Demo
-
-https://user-images.githubusercontent.com/91532881/166426542-b271be2e-e7d9-4b3c-bfe7-5e9e51e26be4.mp4
-
-
 <br/>
 
 
@@ -79,24 +74,6 @@ This project was built using React v 17.0.2, Redux v 4.1.2, Chakra UI, CSS and R
 ### Prerequisites
 
 - NPM 
-
-### Setup
-
-
-The project repository can be found in [GitHub link](https://github.com/m-sehrawat/Weather-App) or just clone the project using this command. 
-
-
-```
-Using HTTPS
-
-# git clone  https://github.com/m-sehrawat/Weather-App.git
-```
-
-+ Open terminal on your workspace with
-
-```
-cd /home/workspace/Weather-App
-```
 
 
 ## Install
@@ -142,19 +119,3 @@ npm run dev
 
 <br/>
 
-
-
-## Contact
-
-If you want to contact me, you can reach me through below handles.
-
-[![linkedin](https://img.shields.io/badge/Mohit_Sehrawat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-sehrawat/)
-[![Twitter](https://img.shields.io/badge/Mohit_Sehrawat-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/m-sehrawat/)
-
-© 2022 Mohit Sehrawat
-
-
-
-## Show your support
-
-Give a ⭐️ if you like this project!
